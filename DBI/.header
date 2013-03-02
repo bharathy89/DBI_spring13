@@ -1,0 +1,11 @@
+nation.bin heap
+region.bin heap
+customer.bin heap
+part.bin heap
+partsupp.bin heap
+orders.bin heap
+lineitem.bin heap
+region.bin.bigq heap
+region.bin.bigq heap
+region.bin.bigq heap
+region.bin.bigq heap
